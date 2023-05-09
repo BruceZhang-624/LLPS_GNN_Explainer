@@ -12,9 +12,13 @@ Liquid–liquid phase separation (LLPS) as the underlying principle represents s
  * environment.yml
 
 ### Usage
-1. TO generate the Graph, please refer to `.py`.
-2. TO training the model, please use `.ip`
+1. TO generate the Graph, please refer to `/code/GNN_createGraph.py`. PS: In this task, the generation of the graph is not our foucs. However, we provide a way of creating the graph data.
+2. TO train the model, please use each of notebook `/code/*.ipynb` (except for `kmeans`) for training. We offer four types of Graph Neural Networks, including `GNN`, `GCN`, `GAT`, and `GIN`. The detailed implementation is in `/code/GNN_core.py`.
+3. TO realize the Explanation, please use each of notebook `/code/*.ipynb`. We implement three types of explanation methonds, including `GNNExplainer`, `PGExplainer`, and `Integrated Gradients`. The baseline method we use here is `k-means`.
 
+
+## Results
+[to be editted]
 
 ### Results
 One example of comparsion between k-means and GNN Explainer:

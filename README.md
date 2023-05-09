@@ -7,6 +7,10 @@ Liquid–liquid phase separation (LLPS) as the underlying principle represents s
 
 ![image](/images/workflow.JPEG)
 
+### Environment and Dependencies
+
+ * environment.yml
+
 
 ### Results
 ![image](/images/example.png)

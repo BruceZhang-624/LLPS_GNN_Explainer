@@ -20,7 +20,7 @@ Liquid–liquid phase separation (LLPS) as the underlying principle represents s
 
 
 ## Results
-[to be editted]
+[to do]
 
 ### Results
 One example of comparsion between k-means and GNN Explainer:

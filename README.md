@@ -1,5 +1,7 @@
 # LLPS_GNN_Explainer
 
+Lin Han, Jiazhen Zhang, Yifei He
+
 This repository is mainly for the final project of **Trustworthy Deep Learning (CPSC 680)**
 
 ## Abstract
@@ -22,4 +24,9 @@ Liquid–liquid phase separation (LLPS) as the underlying principle represents s
 
 ### Results
 One example of comparsion between k-means and GNN Explainer:
+
 ![image](/images/example.png)
+
+
+## Contribution 
+Lin Han: Methodology. Jiazhen Zhang: Coding. Yifei He: Analysis.

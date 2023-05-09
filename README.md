@@ -11,6 +11,11 @@ Liquid–liquid phase separation (LLPS) as the underlying principle represents s
 
  * environment.yml
 
+### Usage
+1. TO generate the Graph, please refer to `.py`.
+2. TO training the model, please use `.ip`
+
 
 ### Results
+One example of comparsion between k-means and GNN Explainer:
 ![image](/images/example.png)

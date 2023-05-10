@@ -1,6 +1,6 @@
 # LLPS_GNN_Explainer
 
-Lin Han, Jiazhen Zhang, Yifei He
+Ling Han, Jiazhen Zhang, Yifei He
 
 This repository is mainly for the final project of **Trustworthy Deep Learning (CPSC 680)**
 
@@ -29,4 +29,4 @@ One example of comparsion between k-means and GNN Explainer:
 
 
 ## Contribution 
-Lin Han: Methodology. Jiazhen Zhang: Coding. Yifei He: Analysis.
+**Ling Han**: Methodology. **Jiazhen Zhang**: Coding. **Yifei He**: Analysis.
